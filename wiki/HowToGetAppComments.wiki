@@ -4,7 +4,7 @@
 
 {{{
 $commentsRequest = new CommentsRequest();
-$commentsRequest->setAppId(7274788888064689970); //Google Maps App ID
+$commentsRequest->setAppId("7274788888064689970"); //Google Maps App ID
 $commentsRequest->setEntriesCount(3);
 
 $reqGroup = new Request_RequestGroup();
