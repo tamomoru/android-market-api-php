@@ -1,6 +1,6 @@
 #summary One-sentence summary of this page.
 
-= Introduction =
+= How to search for apps =
 {{{
 include("../local.php");
 include("../proto/protocolbuffers.inc.php");
