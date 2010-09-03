@@ -1,4 +1,4 @@
-#summary One-sentence summary of this page.
+#summary Example code for searching apps
 
 = How to search for apps =
 {{{
@@ -21,3 +21,7 @@ $reqGroup->setAppsRequest($ar);
 
 $response = $session->execute($reqGroup);
 }}}
+
+The search string can be anything you normally use in the market, such as pub:<publisher name> or packages pname:<package name>
+
+See the [http://developer.android.com/guide/publishing/publishing.html official Android docs] for more search string info
