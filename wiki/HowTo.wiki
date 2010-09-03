@@ -1,4 +1,4 @@
-#summary One-sentence summary of this page.
+#summary Example codes
 
 = Basic Example =
 
@@ -28,5 +28,7 @@ $response = $session->execute($reqGroup);
 = Examples =
 
 HowToSearchApps
+
 HowToGetAppComments
+
 HowToGetAppScreenshot 
