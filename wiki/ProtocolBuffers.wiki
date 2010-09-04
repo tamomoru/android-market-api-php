@@ -1,0 +1,5 @@
+#summary About protocol buffers
+
+= Protocol Buffers=
+
+For generating the protobuf PHP-classes I am currently using Andrew Bramptons [http://github.com/bramp/protoc-gen-php protoc-gen-php]
