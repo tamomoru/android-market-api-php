@@ -1,0 +1,11 @@
+#summary Ways to get your Android Device ID
+
+= Android ID =
+
+The Market API requires a correct device ID. This page is meant to serve as a guide to how to identify that ID.
+
+
+== On your phone ==
+On a GSM phone
+
+[http://developer.android.com/reference/android/telephony/TelephonyManager.html#getDeviceId%28%29 Test]
