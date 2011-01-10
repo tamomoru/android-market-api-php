@@ -2,10 +2,10 @@
 
 = Android ID =
 
-The Market API requires a correct device ID. This page is meant to serve as a guide to how to identify that ID.
+The Market API requires a correct device ID. This page is meant to serve as a guide to how to identify that ID, but is as of yet incomplete and unverified
 
 
 == On your phone ==
-On a GSM phone
+According to [http://developer.android.com/reference/android/telephony/TelephonyManager.html#getDeviceId%28%29 this] your device ID is "the IMEI for GSM and the MEID or ESN for CDMA phones"
 
-[http://developer.android.com/reference/android/telephony/TelephonyManager.html#getDeviceId%28%29 Test]
+== In an emulated device ==
