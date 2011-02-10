@@ -11,6 +11,9 @@ According to [http://developer.android.com/reference/android/telephony/Telephony
 
 Worked partially for me, allowing me to browse the market but shows no Froyo apps.
 
+!DroidDrew wrote
+ On a Droid you can easily get the MEID by following the steps on this link http://support.vzw.com/clc/devices/knowledge_base.html?id=26468
+
 
 === market_checkin ===
 This approach requires a rooted device, but worked in my case.
