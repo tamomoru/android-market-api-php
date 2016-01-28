@@ -1,0 +1,1 @@
+## This project has moved on to GitHub - https://github.com/splitfeed/android-market-api-php ##
